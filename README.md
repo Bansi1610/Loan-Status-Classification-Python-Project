@@ -1,1 +1,2 @@
 # Loan-Status-Classification-Python-Project
+This project predicts whether a loan application will be approved or rejected using machine learning classification algorithms. The dataset is cleaned and analyzed, followed by feature engineering and model training to identify the key factors affecting loan approval. The workflow includes data preprocessing, exploratory data analysis, model building, and performance evaluation.
